@@ -241,7 +241,7 @@ module.exports = {
         pageObjects //Palindrome
             .waitForElementVisible('@palindromeTitle')
             .waitForElementVisible('@palindromeInput')
-            .setValue('palindromeInput' , ['level'])
+            .setValue('@palindromeInput' , ['level'])
             .waitForElementVisible('@palindromeButton')
             .click('@palindromeButton')
             .expect.element('@palindromeResults').text.to.contain('true')

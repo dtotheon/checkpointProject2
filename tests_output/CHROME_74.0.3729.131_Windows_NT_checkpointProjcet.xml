@@ -5,9 +5,9 @@
 
   <testsuite name="checkpointProjcet"
     errors="0" failures="0" hostname="" id="" package="checkpointProjcet" skipped="0"
-    tests="25" time="10.05" timestamp="">
+    tests="25" time="12.55" timestamp="">
   
-    <testcase name="Evens and Odds Test" classname="checkpointProjcet" time="0.7120" assertions="4">
+    <testcase name="Evens and Odds Test" classname="checkpointProjcet" time="1.082" assertions="4">
 
     
 
@@ -18,7 +18,7 @@
     
     </testcase>
   
-    <testcase name="Filter Object Test Catagory: Age" classname="checkpointProjcet" time="0.4970" assertions="4">
+    <testcase name="Filter Object Test Catagory: Age" classname="checkpointProjcet" time="0.7540" assertions="4">
 
     
 
@@ -29,7 +29,7 @@
     
     </testcase>
   
-    <testcase name="Filter String Test: James" classname="checkpointProjcet" time="0.3740" assertions="3">
+    <testcase name="Filter String Test: James" classname="checkpointProjcet" time="0.5150" assertions="3">
 
     
 
@@ -38,36 +38,7 @@
     
     </testcase>
   
-    <testcase name="Palindrome Test True" classname="checkpointProjcet" time="0.4060" assertions="4">
-
-    
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Sum Test" classname="checkpointProjcet" time="0.4320" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Evens and Odds Null Test" classname="checkpointProjcet" time="0.2320" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Filter Object Test Catagory: Tite" classname="checkpointProjcet" time="0.3700" assertions="4">
+    <testcase name="Palindrome Test True" classname="checkpointProjcet" time="0.2790" assertions="4">
 
     
 
@@ -78,9 +49,25 @@
     
     </testcase>
   
-    <testcase name="Filter Object Test Catagory: Name" classname="checkpointProjcet" time="0.3540" assertions="5">
+    <testcase name="Sum Test" classname="checkpointProjcet" time="0.5720" assertions="3">
 
     
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Evens and Odds Null Test" classname="checkpointProjcet" time="0.4670" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter Object Test Catagory: Tite" classname="checkpointProjcet" time="0.7090" assertions="4">
 
     
 
@@ -91,109 +78,7 @@
     
     </testcase>
   
-    <testcase name="Filter Object Test Catagory: Hair Color" classname="checkpointProjcet" time="0.3030" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Filter String Test: Jessica" classname="checkpointProjcet" time="0.3440" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Filter String Test: Melody" classname="checkpointProjcet" time="0.3240" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Filter String Test: Tyler" classname="checkpointProjcet" time="0.2780" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Filter String Test: Blake" classname="checkpointProjcet" time="0.3030" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Filter String Test: Jennifer" classname="checkpointProjcet" time="0.3030" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Filter String Test: Mark" classname="checkpointProjcet" time="0.2790" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Filter String Test: Maddy" classname="checkpointProjcet" time="0.3450" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Palindrome Test: False" classname="checkpointProjcet" time="0.3820" assertions="4">
-
-    
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Filter Object Test Catagory: Blank" classname="checkpointProjcet" time="0.2320" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Filter String Test: Blank" classname="checkpointProjcet" time="0.4070" assertions="10">
-
-    
-
-    
-
-    
-
-    
-
-    
+    <testcase name="Filter Object Test Catagory: Name" classname="checkpointProjcet" time="0.6970" assertions="5">
 
     
 
@@ -206,7 +91,79 @@
     
     </testcase>
   
-    <testcase name="Palindrome Test Blank" classname="checkpointProjcet" time="0.3300" assertions="4">
+    <testcase name="Filter Object Test Catagory: Hair Color" classname="checkpointProjcet" time="0.5600" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter String Test: Jessica" classname="checkpointProjcet" time="0.5970" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter String Test: Melody" classname="checkpointProjcet" time="0.5740" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter String Test: Tyler" classname="checkpointProjcet" time="0.5970" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter String Test: Blake" classname="checkpointProjcet" time="0.5670" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter String Test: Jennifer" classname="checkpointProjcet" time="0.5420" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter String Test: Mark" classname="checkpointProjcet" time="0.4160" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter String Test: Maddy" classname="checkpointProjcet" time="0.2170" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Palindrome Test: False" classname="checkpointProjcet" time="0.2410" assertions="4">
 
     
 
@@ -217,7 +174,7 @@
     
     </testcase>
   
-    <testcase name="Sum Test Doubmel Blank" classname="checkpointProjcet" time="0.2330" assertions="3">
+    <testcase name="Filter Object Test Catagory: Blank" classname="checkpointProjcet" time="0.1610" assertions="3">
 
     
 
@@ -226,41 +183,7 @@
     
     </testcase>
   
-    <testcase name="Sum Test First Blank" classname="checkpointProjcet" time="0.2900" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Sum Test Second Blank" classname="checkpointProjcet" time="0.3470" assertions="3">
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="All In One Test" classname="checkpointProjcet" time="1.591" assertions="18">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
+    <testcase name="Filter String Test: Blank" classname="checkpointProjcet" time="0.3160" assertions="10">
 
     
 
@@ -283,7 +206,84 @@
     
     </testcase>
   
-    <testcase name="Palindrome Test - Palindrome With Spaces" classname="checkpointProjcet" time="0.3870" assertions="4">
+    <testcase name="Palindrome Test Blank" classname="checkpointProjcet" time="0.1920" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Sum Test Doubmel Blank" classname="checkpointProjcet" time="0.1740" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Sum Test First Blank" classname="checkpointProjcet" time="0.2140" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Sum Test Second Blank" classname="checkpointProjcet" time="0.2030" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="All In One Test" classname="checkpointProjcet" time="1.613" assertions="18">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Palindrome Test - Palindrome With Spaces" classname="checkpointProjcet" time="0.2900" assertions="4">
 
     
 
